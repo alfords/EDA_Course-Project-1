@@ -1,4 +1,4 @@
-## Following please find the instruction of the Course Project 1 for Exploratory Data Analysis
+## Following please find the instruction of the Course Project 1 for Exploratory Data Analysis by Dr. Peng etc.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
