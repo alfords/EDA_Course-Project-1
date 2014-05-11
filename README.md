@@ -1,4 +1,4 @@
-## Following please find the instruction of the Course Project 1 for Exploratory Data Analysis by Dr. Peng etc.
+# Following please find the instruction of the Course Project 1 for Exploratory Data Analysis by Dr. Peng etc.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -7,10 +7,10 @@ datasets. In particular, we will be using the "Individual household
 electric power consumption Data Set" which I have made available on
 the course web site:
 
-## Making Plots
+# Making Plots and R code
 
-The task is to reconstruct the following plots which were constructed
-by base plotting system.
+The task is to reconstruct the four plots and R code files 
+and push to the git repository .
 
 For each plot:
 
@@ -18,19 +18,15 @@ For each plot:
 pixels and a height of 480 pixels.
 
 * Name each of the plot files as `plot1.png`, `plot2.png`, `plot3.png', 
-and `plot4.png'.
+`plot4.png'.
 
 * Create the R code files include `plot1.R`, `plot2.R`, `plot3.R`, 
-and `plot4.R` that build the corresponding plots
+`plot4.R` that build the corresponding plots
 
-* Add the PNG file and R code file to your git repository
+* Add the PNG file and R code file to the git repository
 
-When you are finished with the assignment, push your git repository to
-GitHub so that the GitHub version of your repository is up to
-date. There should be four PNG files and four R code files.
 
-The four plots that you will need to construct are shown below. 
-
+The four plots are shown below. 
 
 ### Plot 1
 
