@@ -1,18 +1,14 @@
-# Following please find the instruction of the Course Project 1 for Exploratory Data Analysis by Dr. Peng etc.
+### Course Project 1 for Exploratory Data Analysis
 
-This assignment uses data from
-the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
+### Making Plots and R code
 
-# Making Plots and R code
+According to the course project 1 instructions, the task is using the 
+"Individual household electric power consumption Data Set" to make
+four plots based on the base plotting system and relative R code files, 
+and then push them to the git repository.
 
-The task is to reconstruct the four plots and R code files 
-and push to the git repository .
-
-For each plot:
+* Fork and clone the following GitHub repository: 
+https://github.com/rdpeng/ExData_Plotting1
 
 * Construct the plot and save it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
@@ -23,7 +19,7 @@ pixels and a height of 480 pixels.
 * Create the R code files include `plot1.R`, `plot2.R`, `plot3.R`, 
 `plot4.R` that build the corresponding plots
 
-* Add the PNG file and R code file to the git repository
+* Add the PNG file and R code files to the git repository
 
 
 The four plots are shown below. 
